@@ -1,3 +1,3 @@
-module github.com/oluwasemilore/aegis-go
+module github.com/atomHq/aegis-go
 
 go 1.21
